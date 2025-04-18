@@ -10,6 +10,7 @@ This machine learning project uses a logistic regression model to predict the li
 - Body mass index (BMI)
 - Diabetes pedigree function (considers history of diabetes in a patient's relatives)
 - Age
+  
 Using this information, we are able to predict whether a patient is positive (1) or negative (0) for diabetes.
 
 This project contains three implementations:
